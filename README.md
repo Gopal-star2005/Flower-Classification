@@ -1,0 +1,1 @@
+It's a system that classify iris flowers into three species as setosa, versicolor, virginica based on features like petal and sepal length and width using classification algorithm Logistic Regression.
